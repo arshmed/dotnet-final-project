@@ -1,5 +1,5 @@
 ﻿using System;
-namespace Entities.Abstract
+namespace Core.Entities
 {
 	// IEntity'i implement eden class bir veritabani tablosudur.
 	public interface IEntity

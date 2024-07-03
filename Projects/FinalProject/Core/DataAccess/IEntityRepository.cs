@@ -1,9 +1,8 @@
 ﻿using System;
 using System.Linq.Expressions;
-using Entities.Abstract;
-using Entities.Concrete;
+using Core.Entities;
 
-namespace DataAccess.Abstract
+namespace Core.DataAccess
 {
     // generic constraint
     // class: referans tip
